@@ -12,8 +12,6 @@
 
 </div>
 
-<img src="./assets/divider-shark.svg" width="100%"/>
-
 ## 👑 Player Card
 
 <div align="center">
@@ -28,11 +26,11 @@
 <img src="./assets/hand-so-far.svg" width="100%" alt="A deck is shuffled and five board cards are dealt: A♠ UCL (BSc Computer Science), K♥ TCL Electronics (Data Science Intern), Q♦ PolicySim AI (Research Engineer), J♣ AVARA (Founder's Associate), and a face-up question mark on the river: looking for internships."/>
 </div>
 
-<img src="./assets/divider-shark.svg" width="100%"/>
+<img src="./assets/divider-lineclear.svg" width="100%"/>
 
 ## ♦ Showdown: Hand Rankings
 
-> Six projects, ranked like poker hands with the best at the top, plus one card still to be dealt.
+> Six projects, ranked like poker hands. The best hand is at the top.
 
 <table>
 <tr>
@@ -131,23 +129,6 @@ My first computer-vision project. It detects faces in a live video feed with Haa
 
 </td>
 </tr>
-<tr>
-<td width="260" align="center" valign="middle">
-<img src="./assets/hand-7-next-hand.svg" width="250"/><br/>
-<b>❓ The Next Hand</b><br/><sub>still face-down</sub>
-</td>
-<td valign="top">
-
-### Your team could be the next card
-`Open to internships` `ML` `Software Engineering` `Product`
-
-I'm looking for internships where I can build real systems: ML pipelines, simulation at scale, or product engineering at a fast-moving team. If you've got a seat at the table, deal me in.
-
-<a href="mailto:menonadityaaltis@gmail.com"><img src="https://img.shields.io/badge/%E2%99%A5%20Deal%20me%20in-Email%20me-D62839?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/adityamenonn"><img src="https://img.shields.io/badge/%E2%99%A0%20Or%20find%20me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</td>
-</tr>
 </table>
 
 <img src="./assets/divider-lineclear.svg" width="100%"/>
@@ -156,9 +137,11 @@ I'm looking for internships where I can build real systems: ML pipelines, simula
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityamenonnn&show_icons=true&count_private=true&bg_color=0a4a2e&title_color=f5c518&text_color=fdf6e3&icon_color=d62839&border_color=f5c518&border_radius=10&custom_title=%E2%99%A0%20Aditya%27s%20Chip%20Count" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamenonnn&layout=compact&langs_count=8&bg_color=0a4a2e&title_color=f5c518&text_color=fdf6e3&border_color=f5c518&border_radius=10&custom_title=%E2%99%A5%20Most%20Played%20Cards" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityamenonnn&theme=github_dark&bg_color=0a4a2e" width="100%" alt="Profile details and contribution graph"/>
 
-<img src="https://streak-stats.demolab.com?user=adityamenonnn&background=0A4A2E&border=F5C518&stroke=F5C518&ring=F5C518&fire=D62839&currStreakNum=FDF6E3&sideNums=F5C518&currStreakLabel=F5C518&sideLabels=FDF6E3&dates=9FC7B4&border_radius=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityamenonnn&theme=github_dark&bg_color=0a4a2e" height="170" alt="GitHub stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityamenonnn&theme=github_dark&bg_color=0a4a2e" height="170" alt="Repos per language"/>
+
+<img src="https://streak-stats.demolab.com?user=adityamenonnn&background=0A4A2E&border=F5C518&stroke=F5C518&ring=F5C518&fire=D62839&currStreakNum=FDF6E3&sideNums=F5C518&currStreakLabel=F5C518&sideLabels=FDF6E3&dates=9FC7B4&border_radius=10" alt="Contribution streak"/>
 
 </div>
