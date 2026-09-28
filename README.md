@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Aditya Menon — a royal flush being dealt on a poker table between two falling-block wells"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&pause=1100&color=F5C518&center=true&vCenter=true&width=680&lines=%E2%99%A0+Shuffling+up+and+dealing...;%E2%99%A5+Founder%27s+Associate+%40+AVARA;%E2%99%A6+Research+Engineer+%40+PolicySim+AI;%E2%99%A3+1M+agents+on+the+table.+Your+move." alt="Typing SVG" />
 </a>
@@ -31,18 +29,6 @@
 </div>
 
 <img src="./assets/divider-shark.svg" width="100%"/>
-
-## ♥ The Deck: My Stack
-
-| Hand | Cards held |
-|---|---|
-| 👑 **Royal Flush** · ML & AI | <img src="https://skillicons.dev/icons?i=python,pytorch" height="36"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> |
-| ♠ **Straight Flush** · Web | <img src="https://skillicons.dev/icons?i=react,nextjs,js,fastapi,html" height="36"/> |
-| ♦ **Four of a Kind** · Data | <img src="https://skillicons.dev/icons?i=supabase,postgres" height="36"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/> |
-| ♣ **Full House** · Hardware | <img src="https://skillicons.dev/icons?i=c,arduino" height="36"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/> |
-| 🎲 **Straight** · Also in the deck | <img src="https://skillicons.dev/icons?i=java,haskell,git" height="36"/> <img src="https://img.shields.io/badge/Mesa-ABM-6A5ACD?style=flat-square"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> |
-
-<img src="./assets/divider-lineclear.svg" width="100%"/>
 
 ## ♦ Showdown: Hand Rankings
 
@@ -164,7 +150,7 @@ I'm looking for internships where I can build real systems: ML pipelines, simula
 </tr>
 </table>
 
-<img src="./assets/divider-shark.svg" width="100%"/>
+<img src="./assets/divider-lineclear.svg" width="100%"/>
 
 ## ♣ Chip Count
 
@@ -174,13 +160,5 @@ I'm looking for internships where I can build real systems: ML pipelines, simula
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamenonnn&layout=compact&langs_count=8&bg_color=0a4a2e&title_color=f5c518&text_color=fdf6e3&border_color=f5c518&border_radius=10&custom_title=%E2%99%A5%20Most%20Played%20Cards" />
 
 <img src="https://streak-stats.demolab.com?user=adityamenonnn&background=0A4A2E&border=F5C518&stroke=F5C518&ring=F5C518&fire=D62839&currStreakNum=FDF6E3&sideNums=F5C518&currStreakLabel=F5C518&sideLabels=FDF6E3&dates=9FC7B4&border_radius=10" />
-
-</div>
-
-<div align="center">
-
-<br/>
-
-<img src="./assets/footer.svg" width="100%" alt="GG, well played. Insert coin to connect."/>
 
 </div>
