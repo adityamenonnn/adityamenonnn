@@ -8,26 +8,19 @@
 
 <p>
   <a href="https://linkedin.com/in/adityamenonn"><img src="https://img.shields.io/badge/%E2%99%A0%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:aditya.menon.25@ucl.ac.uk"><img src="https://img.shields.io/badge/%E2%99%A5%20Email-D62839?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:menonadityaaltis@gmail.com"><img src="https://img.shields.io/badge/%E2%99%A5%20Email-D62839?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/%E2%99%A6%20Seat-London%2C%20UK-0A4A2E?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=adityamenonnn&style=for-the-badge&color=F5C518&label=%E2%99%A3+HANDS+DEALT"/>
 </p>
 
 </div>
 
 <img src="./assets/divider-shark.svg" width="100%"/>
 
-## 🃏 Player HUD
+## 👑 Player Card
 
-```yaml
-PLAYER:        Aditya Menon
-SEAT:          BSc Computer Science @ UCL  (expected First)
-HOLE CARDS:    A♥ K♥   # Machine Learning + Systems
-PLAYING STYLE: Tight-aggressive builder. Ships fast, measures everything.
-KNOWN TELL:    Vectorises every loop it sees
-CURRENTLY:     Founder's Associate @ AVARA  ·  Research Engineer @ PolicySim AI
-AWAY FROM TABLE: [ poker, valorant, karting, running ]
-```
+<div align="center">
+<img src="./assets/player-hud.svg" width="100%" alt="King of Hearts player card. Aditya Menon, BSc Computer Science at UCL (expected First). Founder's Associate at AVARA and Research Engineer at PolicySim AI. Strongest in ML/AI, simulation and a perfect poker face. Away from the table: poker, Valorant, karting, running."/>
+</div>
 
 <img src="./assets/divider-lineclear.svg" width="100%"/>
 
@@ -164,7 +157,7 @@ My first computer-vision project. It detects faces in a live video feed with Haa
 
 I'm looking for internships where I can build real systems: ML pipelines, simulation at scale, or product engineering at a fast-moving team. If you've got a seat at the table, deal me in.
 
-<a href="mailto:aditya.menon.25@ucl.ac.uk"><img src="https://img.shields.io/badge/%E2%99%A5%20Deal%20me%20in-Email%20me-D62839?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:menonadityaaltis@gmail.com"><img src="https://img.shields.io/badge/%E2%99%A5%20Deal%20me%20in-Email%20me-D62839?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/adityamenonn"><img src="https://img.shields.io/badge/%E2%99%A0%20Or%20find%20me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </td>
