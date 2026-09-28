@@ -21,7 +21,7 @@
 
 ```yaml
 PLAYER:        Aditya Menon
-SEAT:          BSc Computer Science @ UCL  (class of '28, expected First)
+SEAT:          BSc Computer Science @ UCL  (expected First)
 HOLE CARDS:    A♥ K♥   # Machine Learning + Systems
 PLAYING STYLE: Tight-aggressive builder. Ships fast, measures everything.
 KNOWN TELL:    Vectorises every loop it sees
@@ -33,14 +33,9 @@ AWAY FROM TABLE: [ poker, valorant, karting, running ]
 
 ## ♠ The Hand So Far
 
-> Every street adds a card. Here's how the board ran out.
-
-| Street | Card | Seat | What went in the pot |
-|:---:|:---:|---|---|
-| **Pre-flop** | 🂱 | **UCL** · BSc Computer Science | Software Engineering, Intelligent Systems, Computer Architecture, Systems Engineering |
-| **Flop** | 🂲 | **TCL Electronics** · Data Science Intern, Dubai | XML→SQL pipeline over **18,000+** survey responses in 16 countries; A/B tests cut Amazon MENA CPC to **$0.78** and lifted CTR **18%** |
-| **Turn** | 🂳 | **PolicySim AI** · Research Engineer | Mesa ABM scaled to **1M agents**: 17.57 ms mean tick at 100K via one vectorised NumPy multiply. Merged 8 UK labour datasets into a 255×166 panel |
-| **River** | 🂴 | **AVARA** · Founder's Associate (Product & Tech) | Bradley–Terry preference model converging in ~12 comparisons; LangChain + pgvector RAG at **40% lower cost**; n8n image pipeline **45s → 23s** |
+<div align="center">
+<img src="./assets/hand-so-far.svg" width="100%" alt="A deck is shuffled and five board cards are dealt: A♠ UCL (BSc Computer Science), K♥ TCL Electronics (Data Science Intern), Q♦ PolicySim AI (Research Engineer), J♣ AVARA (Founder's Associate), and a face-up question mark on the river: looking for internships."/>
+</div>
 
 <img src="./assets/divider-shark.svg" width="100%"/>
 
@@ -188,22 +183,6 @@ I'm looking for internships where I can build real systems: ML pipelines, simula
 <img src="https://streak-stats.demolab.com?user=adityamenonnn&background=0A4A2E&border=F5C518&stroke=F5C518&ring=F5C518&fire=D62839&currStreakNum=FDF6E3&sideNums=F5C518&currStreakLabel=F5C518&sideLabels=FDF6E3&dates=9FC7B4&border_radius=10" />
 
 </div>
-
-## 📜 Hand History
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamenonnn&bg_color=0a4a2e&color=fdf6e3&line=f5c518&point=d62839&area=true&area_color=f5c518&hide_border=true&custom_title=Hands%20played%20per%20day" width="100%"/>
-
-<img src="./assets/divider-lineclear.svg" width="100%"/>
-
-## 🏆 High Scores
-
-| Rank | Achievement |
-|:---:|---|
-| **1ST** | All Rounder Award — 1 of 275 students |
-| **2ND** | YTBC Mega Finalist — top 0.8% |
-| **3RD** | CBSE aggregate **98.2%** (CS 99%, Maths 98%) · SAT ~97th percentile |
-| **4TH** | Ran a UNHCR-accredited MUN with **1,200+ delegates**, raised **£17,200+** |
-| **5TH** | Campus Ambassador @ Career Elephant: 50+ qualified leads, 26% conversion |
 
 <div align="center">
 
