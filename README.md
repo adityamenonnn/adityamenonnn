@@ -29,6 +29,13 @@ Autonomous underwater robot that surveys the seabed for unexploded ordnance, and
 
 `Python · Mesa · NumPy · pandas`
 
+**[Should Arteta Be Worried?](https://github.com/adityamenonnn/should-arteta-be-worried)** · Arsenal fan sentiment tracker + squad chemistry optimiser
+
+- Scrapes r/Gunners every 6h; TF-IDF + LogReg classifier with football-specific label correction beats VADER by 18% F1
+- Squad modelled as a 4-3-3 chemistry graph; Branch and Bound finds optimal signings with ~10x fewer nodes than brute force, plus Monte Carlo over stat uncertainty
+
+`Python · FastAPI · scikit-learn · SQLite · GitHub Actions`
+
 **[RAG Evaluation Harness](https://github.com/adityamenonnn/Requests-Library-RAG-With-Evaluation)** · Q&A over the `requests` docs
 
 - Retrieval and generation scored separately: Hit Rate@k, MRR, LLM-as-judge, trap questions
