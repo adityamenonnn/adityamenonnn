@@ -1,6 +1,6 @@
 # Aditya Menon
 
-CS @ UCL · Founder's Associate @ AVARA · Research Engineer @ PolicySim AI
+CS @ UCL · Founder's Associate @ AVARA
 
 Building and thinking about agents, simulation and ML systems.
 
@@ -22,19 +22,19 @@ Autonomous underwater robot that surveys the seabed for unexploded ordnance, and
 
 ### Projects
 
-**[PolicySim](https://github.com/adityamenonnn/policysim-mesa)** · Agent-based model of UK AI-driven job displacement
-
-- Agent `step()` vectorised into one NumPy multiply + row-wise softmax; scales to 1M agents
-- Calibrated on 8 merged UK labour datasets; 17.57 ms mean tick at 100K agents
-
-`Python · Mesa · NumPy · pandas`
-
 **[Should Arteta Be Worried?](https://github.com/adityamenonnn/should-arteta-be-worried)** · Arsenal fan sentiment tracker + squad chemistry optimiser
 
 - Scrapes r/Gunners every 6h; TF-IDF + LogReg classifier with football-specific label correction beats VADER by 18% F1
 - Squad modelled as a 4-3-3 chemistry graph; Branch and Bound finds optimal signings with ~10x fewer nodes than brute force, plus Monte Carlo over stat uncertainty
 
 `Python · FastAPI · scikit-learn · SQLite · GitHub Actions`
+
+**[PolicySim](https://github.com/adityamenonnn/policysim-mesa)** · Agent-based model of UK AI-driven job displacement
+
+- Agent `step()` vectorised into one NumPy multiply + row-wise softmax; scales to 1M agents
+- Calibrated on 8 merged UK labour datasets; 17.57 ms mean tick at 100K agents
+
+`Python · Mesa · NumPy · pandas`
 
 **[RAG Evaluation Harness](https://github.com/adityamenonnn/Requests-Library-RAG-With-Evaluation)** · Q&A over the `requests` docs
 
