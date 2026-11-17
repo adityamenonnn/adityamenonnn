@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/3e57f3d4-05ef-4679-bcda-dc73cbd71a34
-
 # Aditya Menon
 
 CS @ UCL · Founder's Associate @ AVARA
@@ -20,7 +17,10 @@ Autonomous underwater robot that surveys the seabed for unexploded ordnance, and
 - NumPy sonar model renders bomb vs rock from 4 sides (16 views in ~0.4 s) to pick the most informative inspection angle
 - Gemma 4 multimodal classification on camera + sonar, with an on-board rule fallback
 
-https://github.com/user-attachments/assets/96492a5d-ec62-4c64-b5fe-4b9e756e910d
+
+
+https://github.com/user-attachments/assets/55bb5afe-d776-43cc-884a-7bb2143677e9
+
 
 
 `Python · Isaac Sim · OceanSim · YOLOv8 · Gemma · Modal`
